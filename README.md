@@ -11,7 +11,7 @@ Here are the main development phases of the project and their respective pull re
 * [Week 9-10](https://github.com/Bodigrim/arithmoi/pull/210)
 * [Week 11-12](https://github.com/Bodigrim/arithmoi/pull/211)
 
-## Final Version
+## Final Versions
 Here are the final versions of the four main files developed during the project.
 * [QuadraticSieve.hs](https://github.com/Bodigrim/arithmoi/blob/master/Math/NumberTheory/Primes/Factorisation/QuadraticSieve.hs)
 * [LinearAlgebra.hs](https://github.com/Bodigrim/arithmoi/blob/master/Math/NumberTheory/Primes/Factorisation/LinearAlgebra.hs)
