@@ -1,4 +1,4 @@
-# GSoC 2020
+# Number Field Sieves - GSoC 2020
 Algorithms, development, outcomes and improvements of the project undertaken with Haskell.org for the arithmoi library under supervision of Andrew Lelechenko.
 
 ## Report
