@@ -5,7 +5,7 @@ Algorithms, development, outcomes and improvements of the project undertaken wit
 The file [Number Field Sieves](https://github.com/folidota/GSoC2020/blob/master/NumberFieldSieves.pdf) contains a detailed report of the project.
 
 ## Development
-Here are the pull requests merged during the project listed by development timeline.
+Here are the main development phases of the project and their respective pull requests.
 * [Week 1-4](https://github.com/Bodigrim/arithmoi/pull/202)
 * [Week 5-8](https://github.com/Bodigrim/arithmoi/pull/208)
 * [Week 9-10](https://github.com/Bodigrim/arithmoi/pull/210)
