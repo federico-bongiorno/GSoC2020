@@ -1,6 +1,5 @@
 # GSoC 2020
-Algorithms, development, outcomes and improvements of the project undertaken with \texttt{Haskell.org} for the \texttt{arithmoi}
-library under supervision of Andrew Lelechenko.
+Algorithms, development, outcomes and improvements of the project undertaken with Haskell.org for the arithmoi library under supervision of Andrew Lelechenko.
 
 ## Report
 The file [Number Field Sieves](https://github.com/folidota/GSoC2020/blob/master/NumberFieldSieves.pdf) contains a detailed report of the project.
