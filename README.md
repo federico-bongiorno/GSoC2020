@@ -17,5 +17,3 @@ Here are the final versions of the four main files developed during the project.
 * [LinearAlgebra.hs](https://github.com/Bodigrim/arithmoi/blob/master/Math/NumberTheory/Primes/Factorisation/LinearAlgebra.hs)
 * [QuadraticSieveTests.hs](https://github.com/Bodigrim/arithmoi/blob/master/test-suite/Math/NumberTheory/Primes/QuadraticSieveTests.hs)
 * [LinearAlgebraTests.hs](https://github.com/Bodigrim/arithmoi/blob/master/test-suite/Math/NumberTheory/Primes/LinearAlgebraTests.hs)
-
-These links can equally be found in the report.
