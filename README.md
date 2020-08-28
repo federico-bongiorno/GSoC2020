@@ -1,5 +1,5 @@
 # Number Field Sieves - GSoC 2020
-Report and code developed during the project undertaken with Haskell.org for the arithmoi library under supervision of Andrew Lelechenko.
+Report and code developed during the project undertaken with [Haskell.org](https://www.haskell.org/) for the [arithmoi](https://github.com/Bodigrim/arithmoi) library under supervision of [Andrew Lelechenko](https://github.com/Bodigrim).
 
 ## Report
 The file [Number Field Sieves](https://github.com/folidota/GSoC2020/blob/master/GSoC2020/NumberFieldSieves.pdf) contains a detailed report of the project.
